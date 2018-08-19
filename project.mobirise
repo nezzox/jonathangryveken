@@ -40,10 +40,10 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Gryveken Webdesign",
+        "meta_descr": "Att ha en hemsida för dig själv eller ditt företag skall inte vara så dyrt",
         "header_custom": "",
-        "footer_custom": "",
+        "footer_custom": "<script type=\"application/ld+json\">\n{\n  \"@context\": \"http://schema.org\",\n  \"@type\": \"ProfessionalService\",\n  \"name\": \"Gryveken Webdesign\",\n  \"image\": \"http://jonathangryveken.tk/assets/images/png-family-crest-naked-117x128.png\",\n  \"@id\": \"\",\n  \"url\": \"http://jonathangryveken.tk/\",\n  \"telephone\": \"\",\n  \"priceRange\": \"2000kr-25000kr\",\n  \"address\": {\n    \"@type\": \"PostalAddress\",\n    \"streetAddress\": \"\",\n    \"addressLocality\": \"\",\n    \"postalCode\": \"\",\n    \"addressCountry\": \"\"\n  },\n  \"openingHoursSpecification\": {\n    \"@type\": \"OpeningHoursSpecification\",\n    \"dayOfWeek\": [\n      \"Monday\",\n      \"Tuesday\",\n      \"Wednesday\",\n      \"Thursday\",\n      \"Friday\",\n      \"Saturday\",\n      \"Sunday\"\n    ],\n    \"opens\": \"00:00\",\n    \"closes\": \"23:59\"\n  }\n}\n</script>",
         "html_before": ""
       },
       "components": [
@@ -138,7 +138,7 @@
             "paddingBottom": 2,
             "showTitle": true,
             "showSubtitle": true,
-            "showButtons": false,
+            "showButtons": true,
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1620x1080.jpg",
@@ -168,7 +168,7 @@
           },
           "title": "<span style=\"font-weight: normal;\"><i>Gryveken</i></span>&nbsp;Web design",
           "text": "Att ha en hemsida för dig själv eller ditt företag skall inte vara så dyrt",
-          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-black\" role=\"button\">learn more</a>",
+          "buttons": "<a data-app-btn=\"true\" href=\"index.html#title4-e\" class=\"btn btn-black\" role=\"button\">prisexempel</a>",
           "alias": "spacem/components",
           "_tags": [
             "Theme"
