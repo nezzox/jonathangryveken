@@ -22,7 +22,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.1",
     "siteFonts": [],
-    "uniqCompNum": 25,
+    "uniqCompNum": 26,
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png",
     "siteUrl": "http://jonathangryveken.tk",
@@ -31,9 +31,9 @@
     "noImageResize": "",
     "scrollAnimation": "true",
     "cookiesAlert": "",
-    "gdpr": "",
+    "gdpr": "De uppgifter du delar går via ett mailsystem och kan komma att lagras i detta system. Ingen information kommer att delas eller säljas till tredjepart. Informationen kommer endast användas i kontaktsyfte tillhörande denna sajt. Vid önskemål från Er kan all information raderas från mailsystemet i den mån det går.",
     "global-footer": "",
-    "google-analytics": "",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-116243370-5\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-116243370-5');\r\n</script>",
     "sitemapSwitcher": "on"
   },
   "pages": {
@@ -112,7 +112,7 @@
             "fontColor": "#989898",
             "fontHoverColor": "#222"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">exempel</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">priser</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">information</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#text4-d\">Gratis alternativet</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">kontakt</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#title4-9\">exempel</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#title4-e\">priser</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#title4-n\">information</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#text4-d\">Gratis alternativet</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#title4-m\">kontakt</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -866,6 +866,39 @@
           ],
           "_name": "subscribe2",
           "_anchor": "subscribe2-l"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/social.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "<span>Sprid denna sida!</span>",
+          "alias": "spacem/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social1",
+          "_anchor": "social1-p",
+          "_styles": {
+            ".mbr-section-title SPAN": {
+              "font-size": "32px",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            }
+          }
         },
         {
           "_params": {
