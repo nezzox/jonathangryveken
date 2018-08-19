@@ -17,7 +17,9 @@
         "textFont": "Lora",
         "isRoundedButtons": true
       },
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#cccccc"
+      ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.1",
@@ -799,16 +801,16 @@
             "showTitle": false,
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1281.jpg",
             "bgColorRadio": false,
-            "bgColor": "#fff",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#ccc",
-            "overlayOpacity": 0.75,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.7",
             "googleMap": {
               "placeId": "ChIJn6wOs6lZwokRLKy1iqRcoKw",
               "address": "350 5th Ave, New York, NY 10118"
