@@ -24,7 +24,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.1",
     "siteFonts": [],
-    "uniqCompNum": 26,
+    "uniqCompNum": 28,
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png",
     "siteUrl": "http://jonathangryveken.tk",
@@ -434,8 +434,8 @@
             "secondType": "bg-primary",
             "thirdType": "",
             "fourthType": "",
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "2",
+            "paddingBottom": "0",
             "showButtons": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -492,6 +492,113 @@
           ],
           "_name": "pricing-table1",
           "_anchor": "pricing-table1-b"
+        },
+        {
+          "_styles": {
+            ".mbr-section__container .mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section__container .mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_params": {
+            "firstType": "",
+            "secondType": "hidden",
+            "thirdType": "hidden",
+            "fourthType": "hidden",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "showButtons": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title1": "HEMSIDA SOM TJÄNST",
+          "title2": "FÖRETAG",
+          "title3": "FÖRETAG +",
+          "title4": "FÖRETAG ADV",
+          "subtitle1": "Description",
+          "subtitle2": "Description",
+          "subtitle3": "Description",
+          "subtitle4": "Description",
+          "label1": "Most Popular",
+          "label2": "Mest populär",
+          "label3": "Most Popular",
+          "label4": "Most Popular",
+          "currency1": "kr",
+          "currency2": "kr",
+          "currency3": "kr",
+          "currency4": "kr",
+          "price1": "2000/mån",
+          "price2": "5.000",
+          "price3": "10.000",
+          "price4": "25.000",
+          "period1": "Faktureras löpande per månad eller per år efter ö.k.",
+          "period2": "Faktureras<br>",
+          "period3": "Faktureras",
+          "period4": "Faktureras",
+          "description1": "Mobirise is perfect for non-techies who are not familiar with web development.",
+          "description2": "Mobirise is perfect for non-techies who are not familiar with web development.",
+          "description3": "Mobirise is perfect for non-techies who are not familiar with web development.",
+          "description4": "Mobirise is perfect for non-techies who are not familiar with web development.",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">3-5 sidor\n</li><li class=\"list-group-item\">Ex:\n</li><li class=\"list-group-item\">• Start/Landnings sida med text, bilder och info \n</li><li class=\"list-group-item\">• En sida med information, bilder, artiklar etc\n</li><li class=\"list-group-item\">• Kontaktsida med information och ett kontaktforumlär</li><li class=\"list-group-item\">• En sida med kundrecensioner, hänvisningar etc\r</li><li class=\"list-group-item\">• Kontaktsida med information och ett kontaktforumlär</li><li class=\"list-group-item\"><b>Inkluderade tjänster:</b></li><li class=\"list-group-item\">• En adress av .se typ samt registrering av domännamn<br>(.com eller andra topdomäner kan medföra ökad kostnad)</li><li class=\"list-group-item\">• 25 GB utrymme</li><li class=\"list-group-item\">• E-posthantering, obegränsat antal mail konton</li><li class=\"list-group-item\">• Obegränsad bandbredd (antal besök)</li><li class=\"list-group-item\">• Små ändringar på sajt 4ggr/månad</li><li class=\"list-group-item\">• Stora ändringar på sajt 2ggr/månad</li><li class=\"list-group-item\">• Uppläggning av företagsinformation på googe<br>(frivilligt, men rekommenderas)</li></ul>",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">3 sidor</li><li class=\"list-group-item\">Ex:\n</li><li class=\"list-group-item\">• Start/Landnings sida med text, bilder och info\n<br><span style=\"background-color: transparent;\">• En sida med information, bilder, artiklar etc<br>• Kontaktsida med information och ett kontaktforumlär</span></li></ul>",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">5 sidor</li><li class=\"list-group-item\">Ex:\n</li><li class=\"list-group-item\">• Start/Landnings sida med text, bilder och info\n<br><span style=\"background-color: transparent;\">• En sida med information, bilder, artiklar etc.<br>• En sida med lista på anställda, produkter, tjänster etc<br>&nbsp;• En sida med kundrecensioner, hänvisningar etc<br></span><span style=\"background-color: transparent;\">• Kontaktsida med information och ett kontaktforumlär</span></li></ul>",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">5 till 10 sidor<br>Affär med PayPal varukorg</li><li class=\"list-group-item\">Ex:\r</li><li class=\"list-group-item\">• Start/Landnings sida med text, bilder och info \r<br><span style=\"background-color: transparent;\">• En sida med information, bilder, artiklar etc.&nbsp;<br></span><span style=\"background-color: transparent;\">• En sida med lista på anställda, produkter, tjänster etc&nbsp;<br></span><span style=\"background-color: transparent;\">• En sida med kundrecensioner, hänvisningar etc<br>• Affär med diverse varor och PayPal vaurkorg&nbsp;<br></span><span style=\"background-color: transparent;\">• Kontaktsida med information och ett kontaktforumlär</span></li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"index.html#subscribe2-l\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd\">KONTAKTA MIG</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"index.html#subscribe2-l\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd\">KONTAKTA MIG</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"index.html#subscribe2-l\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd\">KONTAKTA MIG</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"index.html#subscribe2-l\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd\">KONTAKTA MIG</a>",
+          "alias": "spacem/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_anchor": "pricing-table1-q"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "showTitle": false,
+            "showText": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "title": "Text with heading",
+          "text": "Notera att alla priser ovan är exkl moms på 25%.",
+          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">download now</a>",
+          "alias": "spacem/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "text1",
+          "_anchor": "text1-r",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
         },
         {
           "_params": {
