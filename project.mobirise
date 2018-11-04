@@ -539,11 +539,11 @@
           "currency2": "kr",
           "currency3": "kr",
           "currency4": "kr",
-          "price1": "2000/mån",
+          "price1": "750/mån",
           "price2": "5.000",
           "price3": "10.000",
           "price4": "25.000",
-          "period1": "Faktureras löpande per månad eller per år efter ö.k.",
+          "period1": "Faktureras löpande per månad eller per år efter ö.k.<br><b>Startavgift 2000kr<br></b>",
           "period2": "Faktureras<br>",
           "period3": "Faktureras",
           "period4": "Faktureras",
@@ -586,7 +586,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Text with heading",
-          "text": "Notera att alla priser ovan är exkl moms på 25%.",
+          "text": "Notera att alla priser ovan är inkl. moms.",
           "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">download now</a>",
           "alias": "spacem/components",
           "_tags": [
