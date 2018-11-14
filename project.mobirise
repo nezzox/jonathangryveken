@@ -586,7 +586,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Text with heading",
-          "text": "Notera att alla priser ovan är inkl. moms.",
+          "text": "Notera att alla priser ovan är exkl. moms.",
           "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">download now</a>",
           "alias": "spacem/components",
           "_tags": [
