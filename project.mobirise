@@ -922,8 +922,8 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5,
             "facebook": true,
-            "twitter": true,
-            "google": true,
+            "twitter": false,
+            "google": false,
             "vkontakte": false,
             "odnoklassniki": false
           },
