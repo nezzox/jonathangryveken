@@ -25,7 +25,7 @@
     "versionFirst": "4.8.1",
     "siteFonts": [],
     "uniqCompNum": 28,
-    "versionPublish": "4.8.1",
+    "versionPublish": "4.9.6",
     "screenshot": "screenshot.png",
     "siteUrl": "http://jonathangryveken.tk",
     "sitemapSwitcherAuto": "on",
@@ -114,7 +114,7 @@
             "fontColor": "#989898",
             "fontHoverColor": "#222"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#title4-9\">exempel</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#title4-e\">priser</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#title4-n\">information</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#text4-d\">Gratis alternativet</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#title4-m\">kontakt</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#title4-9\">exempel</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#title4-e\">priser</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#title4-n\">information</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#title4-m\">kontakt</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -285,7 +285,7 @@
           },
           "title1": "<a href=\"http://mobirise.com\">G</a>ryveken.se",
           "subtitle1": "<a href=\"http://mobirise.com\">application</a>",
-          "text1": "En sajt om familjenamnet Gryveken.",
+          "text1": "En sajt om familjenamnet Gryveken. Fokus på en lite mer visuell upplevelse att scrolla genom sajten.",
           "media1": {
             "image": {
               "class": "mbr-figure__img",
@@ -298,15 +298,15 @@
             }
           },
           "date1": "10/09/2016",
-          "title2": "<a href=\"http://mobirise.com\">R</a>eysMassage.com",
+          "title2": "Massage-Terapeuten.se",
           "subtitle2": "<a href=\"http://mobirise.com\">application</a>",
-          "text2": "En komplett video kurs i klassisk Svensk massage. Sajten har också en affär med en varukorg och betalning via PayPal.",
+          "text2": "Lokal massage-klinik i Motala. Uppdateras kontinuerligt med kund omdömen.",
           "media2": {
             "image": {
               "class": "mbr-figure__img",
-              "src": "@PROJECT_PATH@/assets/images/skrmklipp-1587x881.jpg",
+              "src": "@PROJECT_PATH@/assets/images/skrmklipp-2410x1449.png",
               "active": true,
-              "link": "http://reysmassage.com/",
+              "link": "https://www.massage-terapeuten.se",
               "alt": "",
               "title": "",
               "linkInNewWindow": true
@@ -638,7 +638,7 @@
           "titleL2": "<a data-toggle=\"collapse\" data-parent=\"#accordionLeft\" href=\"#collapseTwo\" aria-expanded=\"false\" aria-controls=\"collapseTwo\">sökmotor optimering<br><span></span></a>",
           "textL2": "<p>Grundläggande sökmotor optimering av sajten för att underlätta för google att indexa sajten ingår. Mer avancerad optimering och styrande av målgrupper och länder sajten skall dyka upp eller inte dyka upp i sökresultat måste priset disskuteras utefter en behovsanalys.</p>",
           "titleL3": "<a data-toggle=\"collapse\" data-parent=\"#accordionLeft\" href=\"#collapseThree\" aria-expanded=\"false\" aria-controls=\"collapseThree\">SSL/TLS<br><span></span></a>",
-          "textL3": "<p>Via de flesta webhotell ingår en SSL kryptering för sajten. Detta gör att man får en adress som börjar med https istället för http. Google har satt som standard att prioritera sajter som har en SSL kryptering i sina sökresultat framför de som inte har det. Det beror på att det finns en viss säkerhetsaspekt med att trafiken till och från sajten är krypterad. Jag erbjuder en SSL kryptering även för \"gratis alternativet\" för webhotell. Det är någorlunda unikt med tanke på att det normalt är ett certifikat som medför höjd belastning och medför extra kostnader och därför aldrig erbjuds gratis.</p>",
+          "textL3": "<p>Via de flesta webhotell ingår en SSL kryptering för sajten. Detta gör att man får en adress som börjar med https istället för http. Google har satt som standard att prioritera sajter som har en SSL kryptering i sina sökresultat framför de som inte har det. Det beror på att det finns en viss säkerhetsaspekt med att trafiken till och från sajten är krypterad.</p>",
           "titleL4": "<a data-toggle=\"collapse\" data-parent=\"#accordionLeft\" href=\"#collapseFour\" aria-expanded=\"false\" aria-controls=\"collapseFour\">Collapsible Group Item #4<span></span></a>",
           "textL4": "<p>Lorem ipsum dolor sit amet, consec tetur adipiscing and brane in bibendum</p>",
           "titleL5": "<a data-toggle=\"collapse\" data-parent=\"#accordionLeft\" href=\"#collapseFive\" aria-expanded=\"false\" aria-controls=\"collapseFive\">Collapsible Group Item #5<span></span></a>",
@@ -765,7 +765,7 @@
           "date2": "09/09/2016",
           "title3": "<a href=\"http://mobirise.com\">O</a>ne.com",
           "subtitle3": "MITT FÖRSLAG",
-          "text3": "Mina erfarenheter med webhotellet one.com är mycket positiva. Och det billigaste alternativet på 20kr/månaden är oftast bra nog för de flesta. Det ger dig 25gb webutrymme med obegränsad trafik och obegränsat antal mail-adresser. Till det kan du via deras sajt köpa till domännamnet.<br><br>Det betalas årsvis, så ett exempel på en adress med .se adress på ett år skulle bli:<br>• hotell (20kr*12 mån) 240kr/år<br>• .se adress 135kr/år<br>• TOTALT: <b>375kr/år</b><br><br><b>Denna kostnad betalas då till one.com, inte till mig.</b> Detta är för att säkerställa att Ni faktiskt äger adress och hotell till Er sajt.<br>Besök dem på <a href=\"https://www.one.com/sv/\" target=\"_blank\" class=\"text-info\">one.com</a> för att läsa mer...",
+          "text3": "Mina erfarenheter med webhotellet one.com är mycket positiva. Och det billigaste alternativet på 20kr/månaden är oftast bra nog för de flesta. Det ger dig 25gb webutrymme med obegränsad trafik och obegränsat antal mail-adresser. Till det kan du via deras sajt köpa till domännamnet.<br><br>Det betalas årsvis, så ett exempel på en adress med .se adress på ett år skulle bli:<br>• hotell (20kr*12 mån) 240kr/år<br>• .se adress 135kr/år<br>• TOTALT: <b>375kr/år</b><br><br><b>Denna kostnad betalas då till one.com, inte till mig.</b> Detta är för att säkerställa att Ni faktiskt äger adress och hotell till Er sajt.<br>Besök&nbsp;<a href=\"https://www.one.com/sv/\" target=\"_blank\" class=\"text-info\">one.com</a> för att läsa mer...",
           "media3": {
             "image": {
               "class": "mbr-figure__img",
@@ -792,73 +792,6 @@
           "_anchor": "news2-c",
           "_styles": {
             "H5": {
-              "color": "#757575"
-            }
-          }
-        },
-        {
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "showTitle": true,
-            "showText": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#151515",
-            "overlayOpacity": 0.5
-          },
-          "title": "Gratis alternativet",
-          "text1": "Det finns såklart gratis alternativet. Om Ni vill ha en sajt som inte nödvändigtvis behöver ha en garanterad upptid på nästan 100%. Dvs, det gör inget om den är offline ibland på grund av ett server fel etc. Om Ni inte behöver mer än <b>max 1gb</b> i webhotell utrymme, <b>inga mailadresser</b> kopplat till Ert domännamn. Webhotellet kommer ligga på git.hub som är en sajt för kodare och utvecklare. Min uppfattning är att det faktiskt fungerar väldigt bra. De håller en hög bandbredd och är hyfsat stabila.",
-          "text2": "Topdomänerna är också mindre vanliga i sådana fall. Alternativen är <b>.tk</b>, <b>.ml</b>, <b>.ga</b>, <b>.cf</b> och <b>.gq</b>. Nackdelen med det är att ibland användes dessa gratis domäner för illegala aktiviteter och därför kan de ibland sorteras bort i företagsbrandväggar etc. Fördelen är som sagt att det är <b>gratis helt utan förbindelser.</b> Jag kan dock inte garantera helt fullt att adressen kommer fungera för alltid, eftersom man inte betalat för något så finns det också inga förbindelser från topdomänens håll gentimot dig som slutkund.",
-          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">download now</a>",
-          "alias": "spacem/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "text4",
-          "_anchor": "text4-d"
-        },
-        {
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "showTitle": false,
-            "showText": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#151515",
-            "overlayOpacity": 0.5
-          },
-          "title": "Text with heading",
-          "text": "<b>Observera att kostnaden för att tillverka sajten fortfarande är densamma. <a href=\"index.html#pricing-table1-b\" class=\"text-info\">Se prisexempel...</a></b>",
-          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">download now</a>",
-          "alias": "spacem/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "text1",
-          "_anchor": "text1-f",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            },
-            "B": {
               "color": "#757575"
             }
           }
