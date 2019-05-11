@@ -143,7 +143,7 @@
             "showButtons": true,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1620x1080.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-1920x1280.jpg",
             "bgColorRadio": false,
             "bgColor": "#fff",
             "bgVideoRadio": false,
@@ -152,7 +152,7 @@
             },
             "overlay": true,
             "overlayColor": "#ffffff",
-            "overlayOpacity": "0.8"
+            "overlayOpacity": "0.4"
           },
           "media": {
             "image": {
@@ -466,10 +466,10 @@
           "currency2": "kr",
           "currency3": "kr",
           "currency4": "kr",
-          "price1": "2000",
-          "price2": "5.000",
-          "price3": "10.000",
-          "price4": "25.000",
+          "price1": "1000",
+          "price2": "4.000",
+          "price3": "7.000",
+          "price4": "15.000",
           "period1": "Faktura, PayPal, Swish eller banköverföring",
           "period2": "Faktureras<br>",
           "period3": "Faktureras",
@@ -539,11 +539,11 @@
           "currency2": "kr",
           "currency3": "kr",
           "currency4": "kr",
-          "price1": "750/mån",
+          "price1": "500/mån",
           "price2": "5.000",
           "price3": "10.000",
           "price4": "25.000",
-          "period1": "Faktureras löpande per månad eller per år efter ö.k.<br><b>Startavgift 2000kr<br></b>",
+          "period1": "Faktureras löpande per månad eller per år efter ö.k.<br><b>Startavgift 1500kr<br></b>",
           "period2": "Faktureras<br>",
           "period3": "Faktureras",
           "period4": "Faktureras",
@@ -634,7 +634,7 @@
           "title3": "cooperative work",
           "title4": "brainstorming",
           "titleL1": "<a data-toggle=\"collapse\" data-parent=\"#accordionLeft\" href=\"#collapseOne\" aria-expanded=\"true\" aria-controls=\"collapseOne\">Kostnader för ändringar på en sajt<br><span></span></a>",
-          "textL1": "<p>Ändringar på bilder, text och information på en sajt kostar 1000kr. Samla ihop all nödvändig information och önskemål om önskade ändringar och be om allt samtidigt istället för små ändringar då och då. Korrigeringar av misstag som stavfel, fel bilder, felaktig information och liknande som är mitt fel kostar ingenting.</p>",
+          "textL1": "<p>Ändringar på bilder, text och information på en sajt kostar 750kr. Samla ihop all nödvändig information och önskemål om önskade ändringar och be om allt samtidigt istället för små ändringar då och då. Korrigeringar av misstag som stavfel, fel bilder, felaktig information och liknande som är mitt fel kostar ingenting.</p>",
           "titleL2": "<a data-toggle=\"collapse\" data-parent=\"#accordionLeft\" href=\"#collapseTwo\" aria-expanded=\"false\" aria-controls=\"collapseTwo\">sökmotor optimering<br><span></span></a>",
           "textL2": "<p>Grundläggande sökmotor optimering av sajten för att underlätta för google att indexa sajten ingår. Mer avancerad optimering och styrande av målgrupper och länder sajten skall dyka upp eller inte dyka upp i sökresultat måste priset disskuteras utefter en behovsanalys.</p>",
           "titleL3": "<a data-toggle=\"collapse\" data-parent=\"#accordionLeft\" href=\"#collapseThree\" aria-expanded=\"false\" aria-controls=\"collapseThree\">SSL/TLS<br><span></span></a>",
@@ -765,7 +765,7 @@
           "date2": "09/09/2016",
           "title3": "<a href=\"http://mobirise.com\">O</a>ne.com",
           "subtitle3": "MITT FÖRSLAG",
-          "text3": "Mina erfarenheter med webhotellet one.com är mycket positiva. Och det billigaste alternativet på 20kr/månaden är oftast bra nog för de flesta. Det ger dig 25gb webutrymme med obegränsad trafik och obegränsat antal mail-adresser. Till det kan du via deras sajt köpa till domännamnet.<br><br>Det betalas årsvis, så ett exempel på en adress med .se adress på ett år skulle bli:<br>• hotell (20kr*12 mån) 240kr/år<br>• .se adress 135kr/år<br>• TOTALT: <b>375kr/år</b><br><br><b>Denna kostnad betalas då till one.com, inte till mig.</b> Detta är för att säkerställa att Ni faktiskt äger adress och hotell till Er sajt.<br>Besök&nbsp;<a href=\"https://www.one.com/sv/\" target=\"_blank\" class=\"text-info\">one.com</a> för att läsa mer...",
+          "text3": "Mina erfarenheter med webhotellet one.com är mycket positiva. Och det billigaste alternativet på 20kr/månaden är oftast bra nog för de flesta. Det ger dig 50gb webutrymme med obegränsad trafik och obegränsat antal mail-adresser. Till det kan du via deras sajt köpa till domännamnet.<br><br>Det betalas årsvis, så ett exempel på en adress med .se adress på ett år skulle bli:<br>• hotell (20kr*12 mån) 240kr/år<br>• .se adress 135kr/år&nbsp;<i>(Ibland billigare första året...)</i><br>• totalt: <b>375kr/år</b><br><br><b>Denna kostnad betalas då till one.com, inte till mig.</b> Detta är för att säkerställa att Ni faktiskt äger adress och hotell till Er sajt.<br>Besök&nbsp;<a href=\"https://www.one.com/sv/\" target=\"_blank\" class=\"text-info\">one.com</a> för att läsa mer...<br><br>Vill ni inte äga adressen och hotellet själv så rekommenderar jag \"<a href=\"index.html#pricing-table1-q\">hemsida som tjänst</a>\" alternativet.",
           "media3": {
             "image": {
               "class": "mbr-figure__img",
@@ -841,7 +841,7 @@
             "showTitle": false,
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1281.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1920x1280.jpg",
             "bgColorRadio": false,
             "bgColor": "#ffffff",
             "bgVideoRadio": false,
@@ -849,7 +849,7 @@
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#ffffff",
+            "overlayColor": "#222222",
             "overlayOpacity": "0.7",
             "googleMap": {
               "placeId": "ChIJn6wOs6lZwokRLKy1iqRcoKw",
@@ -1012,7 +1012,7 @@
               "src": "@THEME_PATH@/components/_images/inst_6.jpg"
             }
           },
-          "copyright": "©2018 All rights reserved. Developed by Jonathan Gryveken.<br>jonathan@gryveken.se • jonathangryveken.tk<br>",
+          "copyright": "©2019 All rights reserved. Developed by Jonathan Gryveken.<br>jonathan@gryveken.se • jonathangryveken.tk<br>",
           "alias": "spacem/components",
           "_tags": [
             "Theme"
